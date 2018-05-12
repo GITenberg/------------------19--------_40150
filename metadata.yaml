@@ -1,0 +1,32 @@
+_repo: '------------------19--------_40150'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40150-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Karolides, Paulos
+    aliases:
+    - Καρολίδης, Παύλος
+    - Carolidis, P.
+    - Karolidis, Pavlos
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '38079'
+    url: http://www.gutenberg.org/2009/agents/38079
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%BF%CE%BB%CE%AF%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2012-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40150'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History -- 1789-1900'
+- !lcsh 'History, Modern -- 19th century'
+- !lcc 'D'
+title: Η Ευρώπη κατά τον 19ον αιώνα
+url: http://www.gutenberg.org/ebooks/40150
